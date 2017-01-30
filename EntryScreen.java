@@ -10,4 +10,9 @@ public class EntryScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_entry_screen);
     }
+     final Button startCamera = (Button) button2;
+    public void 
+    {
+        
+    }
 }
